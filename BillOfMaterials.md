@@ -2,3 +2,7 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
+|Thin NEMA14 Stepper Motor|1|$22.05|www.example.cohttps://www.amazon.com/gp/product/B00W8XJ6RK|
+|Total: |1|$22.05| |
+
+ 3xCOG MSRP: $66.15
