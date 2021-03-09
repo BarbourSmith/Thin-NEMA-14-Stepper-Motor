@@ -580,7 +580,7 @@
         {
             "atomType": "Molecule",
             "name": "Shaft",
-            "x": 0.16764275256222547,
+            "x": 0.16471449487554907,
             "y": 0.7480916030534351,
             "uniqueID": 601993,
             "ioValues": [],
@@ -617,6 +617,20 @@
                     ]
                 },
                 {
+                    "atomType": "Color",
+                    "name": "Color",
+                    "x": 0.5871156661786238,
+                    "y": 0.6717557251908397,
+                    "uniqueID": 456952,
+                    "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": "atoms/166442/601993/815636Extrude"
+                        }
+                    ],
+                    "selectedColorIndex": 0
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 0.9853587115666179,
@@ -625,7 +639,7 @@
                     "ioValues": [
                         {
                             "name": "number or geometry",
-                            "ioValue": "atoms/166442/601993/815636Extrude"
+                            "ioValue": "atoms/166442/601993/456952Color"
                         }
                     ]
                 }
@@ -640,9 +654,16 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 815636,
+                    "ap2ID": 456952
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap2Primary": false,
-                    "ap1ID": 815636,
+                    "ap1ID": 456952,
                     "ap2ID": 190908
                 }
             ],
