@@ -580,8 +580,8 @@
         {
             "atomType": "Molecule",
             "name": "Shaft",
-            "x": 0.1691068814055637,
-            "y": 0.7394636015325671,
+            "x": 0.16764275256222547,
+            "y": 0.7480916030534351,
             "uniqueID": 601993,
             "ioValues": [],
             "topLevel": false,
@@ -687,5 +687,5 @@
     ],
     "fileTypeVersion": 1,
     "filetypeVersion": 1,
-    "circleSegmentSize": 2
+    "circleSegmentSize": "2.2"
 }
